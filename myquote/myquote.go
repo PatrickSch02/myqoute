@@ -5,7 +5,7 @@ import (
 "rsc.io/quote"
 )
 
-func printQuote(){
+func PrintQuote(){
 
 fmt.Println(quote.Glass())
 }
