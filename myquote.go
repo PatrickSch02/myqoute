@@ -1,7 +1,6 @@
 package myquote
 
 import (
-
 "fmt"
 "rsc.io/quote"
 )
@@ -9,5 +8,4 @@ import (
 func printQuote(){
 
 fmt.Println(quote.Glass())
-
 }
