@@ -1,4 +1,4 @@
-module github.com/PatrickSch02/myquote/myquote
+module github.com/PatrickSch02/myquote
 
 go 1.17
 
