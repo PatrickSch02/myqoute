@@ -7,6 +7,7 @@ import (
 )
 
 func printQuote(){
+
 fmt.Println(quote.Glass())
-fmt.Println(quote.Go())
+
 }

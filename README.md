@@ -1,2 +1,0 @@
-# myqoute
-myfuckingquote
